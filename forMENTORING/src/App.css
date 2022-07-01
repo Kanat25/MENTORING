@@ -1,0 +1,14 @@
+.App {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.title{
+  color: red;
+}
+
+
+.container{
+  margin: 0 auto;
+  width: 50px;
+}
